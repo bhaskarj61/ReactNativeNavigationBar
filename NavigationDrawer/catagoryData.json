@@ -1,0 +1,42 @@
+[
+    {
+        "catagoryId": 1,
+        "Name": "Clothes",
+        "subCategory": [
+            {
+                "catagoryId": 1.1,
+                "Name": "Jeans"
+            },
+            {
+                "catagoryId": 1.2,
+                "Name": "Shirts"
+            }
+        ]
+    },
+    {
+        "catagoryId": 2,
+        "Name": "Toys"
+    },
+    {
+        "catagoryId": 3,
+        "Name": "Cars",
+        "subCategory": [
+            {
+                "catagoryId": 3.1,
+                "Name": "Audi"
+            },
+            {
+                "catagoryId": 3.2,
+                "Name": "BMWS"
+            }
+        ]
+    },
+    {
+        "catagoryId": 4,
+        "Name": "Books"
+    },
+    {
+        "catagoryId": 5,
+        "Name": "Phones"
+    }
+]
